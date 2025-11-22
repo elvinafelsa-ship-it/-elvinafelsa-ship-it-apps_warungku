@@ -20,7 +20,7 @@ export const generateReceipt = (items: CartItem[], total: number, cash: number, 
   y += 5;
   doc.setFontSize(8);
   doc.setFont("helvetica", "normal");
-  doc.text("Jl. Digital No. 1, Cloud City", 40, y, { align: "center" });
+  doc.text("Jl karya . Digital No. 1, Semarang", 40, y, { align: "center" });
   y += 5;
   doc.text("-------------------------------------------", 40, y, { align: "center" });
   y += 5;
