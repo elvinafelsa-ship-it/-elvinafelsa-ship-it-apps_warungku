@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Warung Madura Online",
+  "description": "A simple POS system for Warung Madura with Admin management, Cart system, and PDF Receipt printing.",
+  "requestFramePermissions": []
+}
